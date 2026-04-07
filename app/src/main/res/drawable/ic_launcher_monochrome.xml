@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center">
+        <shape android:shape="oval">
+            <size
+                android:width="84dp"
+                android:height="84dp" />
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:width="2dp"
+                android:color="#FFFFFFFF" />
+        </shape>
+    </item>
+    <item android:gravity="center">
+        <shape android:shape="oval">
+            <size
+                android:width="48dp"
+                android:height="84dp" />
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:width="2dp"
+                android:color="#FFFFFFFF" />
+        </shape>
+    </item>
+    <item android:gravity="center">
+        <shape android:shape="oval">
+            <size
+                android:width="84dp"
+                android:height="48dp" />
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:width="2dp"
+                android:color="#FFFFFFFF" />
+        </shape>
+    </item>
+    <item android:gravity="center">
+        <shape android:shape="rectangle">
+            <size
+                android:width="2dp"
+                android:height="84dp" />
+            <corners android:radius="1dp" />
+            <solid android:color="#FFFFFFFF" />
+        </shape>
+    </item>
+    <item android:gravity="center">
+        <shape android:shape="rectangle">
+            <size
+                android:width="84dp"
+                android:height="2dp" />
+            <corners android:radius="1dp" />
+            <solid android:color="#FFFFFFFF" />
+        </shape>
+    </item>
+    <item
+        android:gravity="top|right"
+        android:right="12dp"
+        android:top="12dp">
+        <shape android:shape="oval">
+            <size
+                android:width="24dp"
+                android:height="24dp" />
+            <solid android:color="#FFFFFFFF" />
+        </shape>
+    </item>
+</layer-list>

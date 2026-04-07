@@ -1,0 +1,25 @@
+package com.rahul.geoquest.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val DeepWater = Color(0xFF0C1730)
+val InkBlue = Color(0xFF15233B)
+val SlateBlue = Color(0xFF5E7597)
+val OceanBlue = Color(0xFF2C7DFF)
+val OceanBlueDark = Color(0xFF9DCAFF)
+val AquaMint = Color(0xFF31C7B7)
+val AquaMintDark = Color(0xFF7FE7DA)
+val GoldenSignal = Color(0xFFFFC857)
+val Mist = Color(0xFFF4F8FF)
+val Cloud = Color(0xFFE7EEF9)
+val CardSurface = Color(0xFFFFFFFF)
+val CardSurfaceDark = Color(0xFF162235)
+val NightSurface = Color(0xFF0A111E)
+val NightBackdrop = Color(0xFF0F1728)
+val NightOutline = Color(0xFF2A3A51)
+val BodyCopy = Color(0xFF122033)
+val BodyCopyMuted = Color(0xFF5D6B80)
+val BodyCopyDark = Color(0xFFF4F7FB)
+val BodyCopyMutedDark = Color(0xFFB8C5D7)
+val SuccessMint = Color(0xFF7BE3B9)
+val DangerRose = Color(0xFFFF8C8C)
