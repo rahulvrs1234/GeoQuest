@@ -93,9 +93,4 @@ Verified tasks:
 
 ## Submission Files
 
-Useful project documents for submission are included in the root folder:
-
-- `README.md`
-- `ASSESSMENT_MAPPING.md`
-- `GIBBS_REFLECTION.md`
-- `SUBMISSION_CHECKLIST.md`
+The repository includes the Android Studio project source code and this README.
