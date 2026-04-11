@@ -25,6 +25,50 @@ The project was designed around the assessment requirements and the lecture topi
 - Optional hint reveal during quiz rounds
 - Optional daily reminder notifications
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/homepage.jpeg" alt="GeoQuest home screen" width="220"><br>
+      <strong>Home</strong>
+    </td>
+    <td align="center">
+      <img src="screenshots/quiz-question.jpeg" alt="GeoQuest quiz question screen" width="220"><br>
+      <strong>Quiz Question</strong>
+    </td>
+    <td align="center">
+      <img src="screenshots/quiz-result.jpeg" alt="GeoQuest quiz answer feedback screen" width="220"><br>
+      <strong>Answer Feedback</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/round-complete.jpeg" alt="GeoQuest round complete screen" width="220"><br>
+      <strong>Round Complete</strong>
+    </td>
+    <td align="center">
+      <img src="screenshots/stats.jpeg" alt="GeoQuest statistics screen" width="220"><br>
+      <strong>Statistics</strong>
+    </td>
+    <td align="center">
+      <img src="screenshots/settings-top.jpeg" alt="GeoQuest settings screen top section" width="220"><br>
+      <strong>Settings</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/settings-bottom.jpeg" alt="GeoQuest settings screen lower section" width="220"><br>
+      <strong>Reminders and Ethics</strong>
+    </td>
+    <td align="center">
+      <img src="screenshots/app-icon.jpeg" alt="GeoQuest app icon" width="220"><br>
+      <strong>App Icon</strong>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 ## Technical Stack
 
 - Kotlin
