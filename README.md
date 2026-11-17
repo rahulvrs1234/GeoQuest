@@ -1,12 +1,12 @@
 # GeoQuest
 
-GeoQuest is an Android educational app built in Kotlin with Jetpack Compose for Assignment 3. The app helps secondary-school learners improve geography knowledge through short quiz rounds focused on country flags, capitals, revision habits, and progress tracking.
+GeoQuest is an Android geography-learning app built with Kotlin and Jetpack Compose. It combines REST API integration, local data storage, background synchronisation and interactive quizzes to help secondary-school learners practise country flags and capitals, build revision habits and track progress.
 
 This academic project demonstrates API integration, asynchronous data processing, local persistence, explicit application state and permission-aware background work. The source and screenshots below provide an engineering walkthrough; the repository does not claim a commercial deployment or measured learning outcomes.
 
 ## Overview
 
-The project was designed around the assessment requirements and the lecture topics covered in class:
+The application brings together:
 
 - Android Studio + Kotlin
 - Jetpack Compose + Material Design 3
